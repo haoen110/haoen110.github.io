@@ -1,2 +1,2 @@
-# haoen110.github.io
+# Welcome to Enwei's Blog!
 My personal website.
