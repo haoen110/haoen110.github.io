@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to EnweiH's Blog!"
 date:   2019-12-22 21:36:59 +0800
 categories: jekyll update
 ---
