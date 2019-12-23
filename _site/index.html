@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Edge Case: Nested and Mixed Lists - Enwei’s Blog</title>
+<!-- begin _includes/seo.html --><title>Splash Page - Enwei’s Blog</title>
 <meta name="description" content="This is personal blog about my lif, experience and it skills (e.g. Data Science).">
 
 
@@ -20,7 +20,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Enwei's Blog">
 <meta property="og:title" content="Enwei’s Blog">
-<meta property="og:url" content="http://localhost:4000/blogs/">
+<meta property="og:url" content="http://localhost:4000/">
 
 
   <meta property="og:description" content="This is personal blog about my lif, experience and it skills (e.g. Data Science).">
@@ -40,7 +40,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/blogs/">
+<link rel="canonical" href="http://localhost:4000/">
 
 
 
@@ -51,7 +51,7 @@
     
       "@type": "Person",
       "name": "Enwei Hao",
-      "url": "http://localhost:4000/blogs/"
+      "url": "http://localhost:4000/"
     
   }
 </script>
@@ -64,7 +64,7 @@
 <!-- end _includes/seo.html -->
 
 
-<link href="/blogs/feed.xml" type="application/atom+xml" rel="alternate" title="Enwei's Blog Feed">
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Enwei's Blog Feed">
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -74,7 +74,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="/blogs/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/main.css">
 
 <!--[if IE]>
   <style>
@@ -122,12 +122,14 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
-        <a class="site-title" href="/blogs/">
+        <a class="site-title" href="/">
           Enwei's Blog
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/" >Quick-Start Guide</a>
+              <a href="/machine-learning/" >Machine Learning</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/" >About</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -159,7 +161,7 @@
       
 
       
-        <img src="/blogs/assets/images/play-guitar.jpeg" alt="HAO, Enwei" itemprop="image">
+        <img src="/assets/images/play-guitar.jpeg" alt="HAO, Enwei" itemprop="image">
       
     </div>
   
@@ -188,19 +190,17 @@
       
         
           
-            <li><a href="haoenwei@outlook.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email: haoenwei@outlook.com</a></li>
-          
         
           
-            <li><a href="https://www.enweih.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website: www.enweih.com</a></li>
-          
-        
+            <li><a href="https://www.enweih.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
           
         
           
         
           
-            <li><a href="https://github.com/haoen110" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub: github.com/haoen110</a></li>
+        
+          
+            <li><a href="https://github.com/haoen110" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
           
         
           
@@ -209,6 +209,13 @@
 
       
 
+      
+        <li>
+          <a href="mailto:haoenwei@outlook.com">
+            <meta itemprop="email" content="haoenwei@outlook.com" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
       
 
       
@@ -274,7 +281,7 @@
     
       <h1 id="page-title" class="page__title"></h1>
     
-    
+    <img src="/assets/images/ningbo.jpg">
 
 <h3 class="archive__subtitle">Recent posts</h3>
 
@@ -288,7 +295,36 @@
     
     <h2 class="archive__item-title" itemprop="headline">
       
-        <a href="/blogs/coding/first/" rel="permalink">Edge Case: Nested and Mixed Lists
+        <a href="/machine-learning/gradient-descent/" rel="permalink">Gradient Descent Intro
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Gradient Descent
+</p>
+  </article>
+</div>
+
+
+  
+
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/article/first/" rel="permalink">First Day!
 </a>
       
     </h2>
@@ -302,8 +338,9 @@
 
 </p>
     
-    <p class="archive__item-excerpt" itemprop="description">First
-hahah
+    <p class="archive__item-excerpt" itemprop="description">
+  This is my first day deploying a blog website on github pages.
+
 </p>
   </article>
 </div>
@@ -324,7 +361,7 @@ hahah
         <!-- start custom footer snippets -->
 
 <!-- end custom footer snippets -->
-        <div class="page__footer-follow">
+        <!-- <div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -346,18 +383,21 @@ hahah
       
     
 
-    <li><a href="/blogs/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
-</div>
+</div> -->
 
-<div class="page__footer-copyright">&copy; 2019 Enwei Hao. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright" style="text-align: center;">&copy; 2019 Enwei Hao. </div>
+  <!-- Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->
 
       </footer>
     </div>
 
     
-  <script src="/blogs/assets/js/main.min.js"></script>
+  <script src="/assets/js/main.min.js"></script>
   <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
 
 
 

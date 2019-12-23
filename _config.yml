@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -111,12 +111,12 @@ author:
   avatar           : "/assets/images/play-guitar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a student major in data science."
   location         : "Hong Kong, China (Now)"
-  email            : #"haoenwei@outlook.com"
+  email            : "haoenwei@outlook.com"
   links:
-    - label: "Email: haoenwei@outlook.com"
+    - label: "haoenwei@outlook.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: haoenwei@outlook.com
-    - label: "Website: www.enweih.com"
+      # url: "haoenwei@outlook.com"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.enweih.com"
     - label: "QQ: 554161580"
@@ -125,7 +125,7 @@ author:
     - label: "WeChat: haoen110"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://weixin.qq.com/"
-    - label: "GitHub: github.com/haoen110"
+    - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/haoen110"
     - label: "Instagram"
