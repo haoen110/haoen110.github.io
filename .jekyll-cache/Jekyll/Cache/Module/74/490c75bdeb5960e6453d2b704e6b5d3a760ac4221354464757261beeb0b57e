@@ -1,4 +1,4 @@
-I"Æ
+I"Ã
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -12,9 +12,9 @@
           <span class="site-subtitle">Enwei's Website</span>
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/welcome/" >Welcome</a>
+              <a href="/" >Welcome</a>
             </li><li class="masthead__menu-item">
-              <a href="/" >Home</a>
+              <a href="/home/" >Home</a>
             </li><li class="masthead__menu-item">
               <a href="/about/" >About</a>
             </li></ul>

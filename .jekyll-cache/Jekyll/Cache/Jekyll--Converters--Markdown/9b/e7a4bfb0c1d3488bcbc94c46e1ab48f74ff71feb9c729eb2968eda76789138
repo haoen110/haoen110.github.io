@@ -1,0 +1,235 @@
+I"�
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>All of belows are my interests, check them out! 这些内容都是我所感兴趣的，快看看吧！</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/musice.jpeg" alt="placeholder image 1" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder 1</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/coding.jpeg" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder 2</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/food.jpeg" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder 3</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder Image Left Aligned</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Left aligned with <code class="highlighter-rouge">type="left"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--right">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder Image Right Aligned</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Right aligned with <code class="highlighter-rouge">type="right"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder Image Center Aligned</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Centered with <code class="highlighter-rouge">type="center"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+:ET

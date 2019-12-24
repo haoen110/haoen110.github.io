@@ -8,7 +8,7 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/home/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -17,9 +17,6 @@
 <loc>http://localhost:4000/machine-learning/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/splash-page/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/welcome/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 </urlset>

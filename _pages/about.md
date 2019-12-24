@@ -8,4 +8,4 @@ header:
   image: "/assets/images/about.jpeg"
 ---
 
-This website is built with jekyll.
+This website host on Github.
