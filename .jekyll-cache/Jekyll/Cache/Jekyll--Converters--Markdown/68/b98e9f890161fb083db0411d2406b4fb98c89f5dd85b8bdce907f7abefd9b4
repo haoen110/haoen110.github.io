@@ -1,4 +1,4 @@
-I"c
+I"u
 <div class="feature__wrapper">
 
   
@@ -55,7 +55,7 @@
           
 
           
-            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
           
         </div>
       </div>
@@ -86,7 +86,7 @@
           
 
           
-            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
           
         </div>
       </div>
@@ -117,7 +117,7 @@
           
 
           
-            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
           
         </div>
       </div>
@@ -132,7 +132,7 @@
 
     
 
-    <div class="feature__item--left">
+    <div class="feature__item--center">
       <div class="archive__item">
         
           <div class="archive__item-teaser">
@@ -154,7 +154,7 @@
           
 
           
-            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
           
         </div>
       </div>
@@ -163,7 +163,7 @@
 
     
 
-    <div class="feature__item--left">
+    <div class="feature__item--center">
       <div class="archive__item">
         
           <div class="archive__item-teaser">
@@ -185,7 +185,7 @@
           
 
           
-            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
           
         </div>
       </div>
@@ -194,7 +194,7 @@
 
     
 
-    <div class="feature__item--left">
+    <div class="feature__item--center">
       <div class="archive__item">
         
           <div class="archive__item-teaser">
@@ -216,7 +216,7 @@
           
 
           
-            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
           
         </div>
       </div>
@@ -229,11 +229,113 @@
 
   
 
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/music.jpeg" alt="Music 音乐" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Music 音乐</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Guitar and keyboard are my weapon 吉他和键盘是我的武器</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/coding.jpeg" alt="IT / AI / ML / DS Skill 技术" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">IT / AI / ML / DS Skill 技术</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>These are my primary jobs 我的首要任务</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/food.jpeg" alt="Food 食物" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Food 食物</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Delicious food support me 人是铁饭是钢</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
 </div>
+<!-- 
 
 <div class="feature__wrapper">
 
   
 
 </div>
+
+
+
+<div class="feature__wrapper">
+
+  
+
+</div> -->
 :ET

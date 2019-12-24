@@ -1,0 +1,412 @@
+I"� 
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/music.jpeg" alt="Music 音乐" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Music 音乐</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Guitar and keyboard are my weapon 吉他和键盘是我的武器</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/coding.jpeg" alt="IT / AI / ML / DS Skill 技术" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">IT / AI / ML / DS Skill 技术</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>These are my primary jobs 我的首要任务</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/food.jpeg" alt="Food 食物" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Food 食物</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Delicious food support me 人是铁饭是钢</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/music.jpeg" alt="Music 音乐" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Music 音乐</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Guitar and keyboard are my weapon 吉他和键盘是我的武器</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/coding.jpeg" alt="IT / AI / ML / DS Skill 技术" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">IT / AI / ML / DS Skill 技术</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>These are my primary jobs 我的首要任务</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/food.jpeg" alt="Food 食物" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Food 食物</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Delicious food support me 人是铁饭是钢</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/travel.jpeg" alt="Travel 旅行" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Travel 旅行</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>I’m eager to travel 我是多么渴望旅行</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/flight.jpeg" alt="Flight 飞行" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Flight 飞行</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>I’m also a flight enthusiast 同样，我也是一名飞行爱好者</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/exercise.jpeg" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Exercise 锻炼</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Exercising? HA~ 锻炼？ 哈</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/music.jpeg" alt="Music 音乐" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Music 音乐</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Guitar and keyboard are my weapon 吉他和键盘是我的武器</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/coding.jpeg" alt="IT / AI / ML / DS Skill 技术" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">IT / AI / ML / DS Skill 技术</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>These are my primary jobs 我的首要任务</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/food.jpeg" alt="Food 食物" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Food 食物</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Delicious food support me 人是铁饭是钢</p>
+
+            </div>
+          
+
+          
+            <p><a href="/home/" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+<!-- 
+
+<div class="feature__wrapper">
+
+  
+
+</div>
+
+
+
+<div class="feature__wrapper">
+
+  
+
+</div> -->
+:ET
