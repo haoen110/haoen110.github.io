@@ -1,4 +1,4 @@
-I"†<!-- <div class="page__footer-follow">
+I"-<div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>Follow:</strong></li>
@@ -7,23 +7,38 @@
     
       
         
-      
+          <li><a href="https://www.enweih.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
         
       
         
-      
+          <li><a href="https://github.com/haoen110" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
         
       
         
+          <li><a href="https://www.kaggle.com/haoen110" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-kaggle" aria-hidden="true"></i> Kaggle</a></li>
+        
       
+        
+          <li><a href="https://qq.com" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-qq" aria-hidden="true"></i> QQ</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/haoen110" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://www.facebook.com/haoen110" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://www.instagram.com/haoen110/" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
         
       
     
 
     <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
   </ul>
-</div> -->
+</div>
 
-<div class="page__footer-copyright" style="text-align: center;">&copy; 2019 Enwei Hao. </div>
-  <!-- Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->
-:ET
+<div class="page__footer-copyright" style="text-align: left;">&copy; 2019 Enwei Hao. </div>
+  <!-- Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div> -->:ET

@@ -2,8 +2,10 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Machine Learning"
-    url: /machine-learning/
+  - title: "Welcome"
+    url: /welcome/
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
   # - title: "Sample Collections"

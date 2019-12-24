@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enwei's Blog"
+title                    : "Enwei"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Enwei's Website" # site tagline that appears below site title in masthead
 name                     : "Enwei Hao"
 description              : "This is personal blog about my lif, experience and it skills (e.g. Data Science)."
 url                      : "https://www.enweih.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -113,46 +113,52 @@ author:
   location         : "Hong Kong, China (Now)"
   email            : "haoenwei@outlook.com"
   links:
-    - label: "haoenwei@outlook.com"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "haoenwei@outlook.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.enweih.com"
-    - label: "QQ: 554161580"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://qq.com/"
-    - label: "WeChat: haoen110"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://weixin.qq.com/"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/haoen110"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/haoen110"  
+    - label: "QQ"
+      icon: "fab fa-fw fa-qq"
+      url: "https://qq.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/haoen110"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/haoen110"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/haoen110/"
 
 # Site Footer
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.enweih.com"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/haoen110"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/haoen110"  
+    - label: "QQ"
+      icon: "fab fa-fw fa-qq"
+      url: "https://qq.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/haoen110"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://www.facebook.com/haoen110"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/haoen110/"
 
 
 # Reading Files
