@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Concepts"
 date: 2019-12-25
-categories: "Machine Learning"
+categories: Machine-Learning
 ---
 
 # What is Machine Learning?
